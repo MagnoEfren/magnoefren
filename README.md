@@ -1,5 +1,5 @@
 ##  BIENVENIDOS 
-<img align="center" alt="Rafa-yoda" height="200" width="300" src= "https://i.imgur.com/o1xpsU2.gif">
+<img align="center" alt="Rafa-yoda" height="200" width="300" justif ='center' src= "https://i.imgur.com/o1xpsU2.gif">
 
 ## Conectate conmigo 
 <div align="center">
