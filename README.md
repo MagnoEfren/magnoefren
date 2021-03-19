@@ -1,4 +1,4 @@
-## WELCOME <img align="center" alt="Rafa-yoda" height="60" width="80" src= "https://i.imgur.com/dTYwdG1.gif">
+## WELCOME <img align="center" alt="Rafa-yoda" height="60" width="100" src= "https://i.imgur.com/dTYwdG1.gif">
 
 <a href="https://github.com/magnoefren">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
