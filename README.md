@@ -1,12 +1,4 @@
-## <img align="center" alt="Rafa-yoda" height="100" width="200" src= "https://i.imgur.com/dTYwdG1.gif">
-
-<a href="https://github.com/magnoefren">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username = magnoefren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username = magnoefren&layout=compact&langs_count=8&theme=dracula"/>
-<div>
-
-
-
+## <img align="center" alt="Rafa-yoda" height="100" width="300" src= "https://i.imgur.com/dTYwdG1.gif">
 
 ## Conectate conmigo 
 <div align="center">
