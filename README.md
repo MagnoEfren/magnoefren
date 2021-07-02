@@ -1,5 +1,5 @@
 ##  BIENVENIDOS 
-<img align="center" alt="Rafa-yoda" height="200" width="300" justif ='center' src= "https://i.imgur.com/o1xpsU2.gif">
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github-contribution-grid-snake.svg)
 
 ## Conectate conmigo 
 <div align="center">
