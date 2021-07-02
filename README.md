@@ -15,8 +15,7 @@
 
 
   
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube/>
-</div>    
+ 
   
   <a href="https://www.youtube.com/c/MagnoEfren" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
