@@ -1,7 +1,7 @@
 ##  BIENVENIDOS 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github-contribution-grid-snake.svg)
 
-## Conectate conmigo 
+## Redes Sociales 
 <div align="center">
 
 <a href="https://www.facebook.com/electronicsarme" target="_blank">
