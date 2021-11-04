@@ -9,10 +9,10 @@
 <div align="center">
 
 <a href="https://www.facebook.com/electronicsarme" target="_blank">
-<img src=https://img.shields.io/badge/facebook-00FFFF.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-11FFDD.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/magnoefren" target="_blank">
-<img src=https://img.shields.io/badge/instagram-F4D03F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-FDD63F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 <a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
