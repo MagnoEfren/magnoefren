@@ -17,8 +17,8 @@
 <a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
   
-<a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
+<a href="https://twitter.com/magnoefren15" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1122FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
   </a>
 
