@@ -1,6 +1,6 @@
 
 
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">,I'm Magno Efren </h1>
+<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Magno Efren </h1>
 <p align="left"> </p>
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github-contribution-grid-snake.svg)
@@ -16,7 +16,7 @@
   
 <a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> </a>
- ##
+
 
 
 
