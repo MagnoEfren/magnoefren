@@ -12,7 +12,7 @@
 <img src=https://img.shields.io/badge/facebook-11D9FF.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/magnoefren" target="_blank">
-<img src=https://img.shields.io/badge/instagram-FF00FF.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-CF3476.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 <a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
