@@ -3,8 +3,6 @@
 <h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">, I'm Magno Efren </h1>
 <p align="left"> </p>
 
-
-
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github-contribution-grid-snake.svg)
 
 ## Redes Sociales 
