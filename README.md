@@ -5,7 +5,7 @@
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github-contribution-grid-snake.svg)
 
-## Redes Sociales 
+### Redes Sociales 
 <div align="center">
 <a href="https://www.facebook.com/electronicsarme" target="_blank">
 <img src=https://img.shields.io/badge/facebook-1199FF.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
