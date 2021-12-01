@@ -19,6 +19,9 @@
 <a href="https://twitter.com/magnoefren15" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1818FE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
+<a href="https://twitter.com/magnoefren15" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+
  </a>
   
 
