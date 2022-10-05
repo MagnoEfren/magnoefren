@@ -22,7 +22,7 @@
 
  </a>
 
-### Últimos vídeos en mi [canal de Youtube](https://youtube.com/magnoefren?sub_confirmation=1)
+### Últimos vídeos en [Youtube](https://youtube.com/magnoefren?sub_confirmation=1)
 
 <a href='https://youtu.be/AAxijGx9_Pc' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/an_webp/AAxijGx9_Pc/mqdefault_6s.webp?du=3000&sqp=CImG85kG&rs=AOn4CLBXZRKuOZsXXDBH-HxAKIYMWyLGyQ' alt='Efecto Matrix con Python' />
