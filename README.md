@@ -25,13 +25,13 @@
 ### [Youtube](https://youtube.com/magnoefren?sub_confirmation=1)
 
 <a href='https://youtu.be/AAxijGx9_Pc' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/an_webp/AAxijGx9_Pc/mqdefault_6s.webp?du=3000&sqp=CImG85kG&rs=AOn4CLBXZRKuOZsXXDBH-HxAKIYMWyLGyQ' alt='Efecto Matrix con Python' />
+  <img width='30%' src='https://github.com/MagnoEfren/magnoefren/blob/main/images/video01.png' alt='Efecto Matrix con Python' />
 </a>
 <a href='https://youtu.be/SOYa_nZKaWg' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/an_webp/SOYa_nZKaWg/mqdefault_6s.webp?du=3000&sqp=CMiX85kG&rs=AOn4CLDNUQ4BvNblslZqCCiW5N7iZMRGhg' alt='GUI con PyQt5 - Arduino' />
+  <img width='30%' src='https://github.com/MagnoEfren/magnoefren/blob/main/images/video02.png' alt='GUI con PyQt5 - Arduino' />
 </a>
 <a href='https://youtu.be/EYs6uWmCWwI' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/an_webp/EYs6uWmCWwI/mqdefault_6s.webp?du=3000&sqp=CJ7x8pkG&rs=AOn4CLDweWDn7dl6MgUyAMAGk3xuE35QcQ' alt='Aplicación android en Python con base de datos' />
+  <img width='30%' src='https://github.com/MagnoEfren/magnoefren/blob/main/images/video03.png' alt='Aplicación android en Python con base de datos' />
 </a>
 
 
