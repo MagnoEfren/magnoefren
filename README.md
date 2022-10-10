@@ -1,5 +1,3 @@
-
-
 <h1 align="left"> Hi 👋 I'm Magno Efren </h1>
 <p align="left"> </p>
 
