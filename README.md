@@ -1,7 +1,7 @@
 <h1 align="left"> Hi 👋 I'm Magno Efren </h1>
 <p align="left"> </p>
 
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
 ### Redes Sociales 
 <div align="center">
