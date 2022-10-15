@@ -1,5 +1,6 @@
 <h1 align="left"> Hi 👋 I'm Magno Efren </h1>
 <p align="left"> </p>
+
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
 ### Redes Sociales 
@@ -18,6 +19,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
  </a>
+  
 ### [Youtube](https://youtube.com/magnoefren?sub_confirmation=1)
 
 <a href='https://youtu.be/AAxijGx9_Pc' target='_blank'>
