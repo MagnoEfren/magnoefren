@@ -4,8 +4,6 @@
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=aa00dd&width=435&lines=Social%20Networks:)](https://www.youtube.com/c/MagnoEfren/videos)
-
 <div align="center">
   
 <a href="https://instagram.com/magnoefren" target="_blank">
