@@ -15,7 +15,7 @@
 <a href="https://twitter.com/magnoefren15" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
-<a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=magnoefren/" target="_blank">
+<a href="www.linkedin.com/magnoefren/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
  </a>  
