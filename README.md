@@ -13,8 +13,8 @@
 <a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
   
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">   
-<a href="https://twitter.com/magnoefren15" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=X&logoColor=white" target="_blank"> 
+<a href="https://x.com/magnoefren15" target="_blank">
+<img src="https://img.shields.io/badge/X-8FC3F4?style=for-the-badge&logo=X&logoColor=white" target="_blank"> 
 
 <a href="https://www.linkedin.com/in/magnoefren/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
